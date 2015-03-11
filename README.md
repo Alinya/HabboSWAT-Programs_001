@@ -8,3 +8,8 @@ Compile using Visual Studio 2010 or greater (by running the HabboImager.sln file
 Information
 ======================
 A desktop, C# based program alternative for generating Habbo Avatar images, rendering the need for the ones available on fansites useless.
+
+======================
+Short Link To Here
+======================
+The shortened link to reach this branch is: http://nyaan.ml/HabboImager
