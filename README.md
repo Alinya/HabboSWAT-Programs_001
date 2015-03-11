@@ -6,4 +6,4 @@ Each branch is intended to be their own program, and as such, should not be mixe
 ======================
 Programs
 ======================
-HabboImager: https://github.com/Alinya/HabboSWAT-Programs_001/blob/HabboImager/README.md
+HabboImager: https://github.com/Alinya/HabboSWAT-Programs_001/blob/HabboImager
